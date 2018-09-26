@@ -10,5 +10,5 @@ Modern software engineering homework </br>
 下午组员三个人一起讨论，研读第五章内容，明确任务内容，并约定10.1之前能够对要讲的内容进行进行串通。<br>
 查找资料，发现一博文可以参考https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/<br>
 4.阅读第6章，明确第6章内容，主要分2部分：
-  4.1 敏捷流程及其原则
-  4.2 何时选择敏捷开发方法，何时选择其他方法？
+  4.1 敏捷流程及其原则</br>
+  4.2 何时选择敏捷开发方法，何时选择其他方法？</br>
